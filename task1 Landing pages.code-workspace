@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../task1 Landing pages"
+		},
+		{
+			"path": "../../Task2 Portfolio"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 4900,
+		"liveServer.settings.multiRootWorkspaceName": "folio"
+	}
+}
