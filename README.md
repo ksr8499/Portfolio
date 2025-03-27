@@ -24,7 +24,6 @@
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
 | [Gym Management API](https://github.com/ksr8499/gym-api) | Spring Boot, PostgreSQL | Reduced latency by 25% |
-| [Data Pipeline](https://github.com/ksr8499/data-pipeline) | FastAPI, Polars | 800 RPS throughput |
 
 ## 📚 Education
 **B.Tech in Computer Science**  
