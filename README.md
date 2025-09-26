@@ -12,9 +12,9 @@
 
 ## 🛠 Technical Skills
 **Backend Development:**  
-![Java](https://img.shields.io/badge/Java-17-%23ED8B00?logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.6-%236DB33F?logo=spring)
-![Hibernate](https://img.shields.io/badge/Hibernate-6.1-%2300599C?logo=hibernate)
+![Java]
+![javascript]
+![python]
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-%23336791?logo=postgresql)
